@@ -1,4 +1,4 @@
-# ML_Categories
+# ML_BASICS
 This is my first git repository.
 <br>
 **What is Machine Learning?**
