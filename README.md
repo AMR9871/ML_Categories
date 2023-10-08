@@ -8,6 +8,7 @@ Machine Learning in simple words is described as a subset of Artificial Intellig
 ![ML](https://i0.wp.com/tecknoworks.com/wp-content/uploads/2019/12/machine-learning-main-scaled.jpeg)
 ## Types Of Machine Learning Include :
 <br>
+
 **1)SUPERVISED LEARNING**
 <br>
 **2)UNSUPERVISED LEARNING**
