@@ -18,6 +18,7 @@ Machine Learning in simple words is described as a subset of Artificial Intellig
 
 # There are some other types of ML which is not know to everyone: #
 <br>
+
 **1)SEMI SUPERVISED LEARNING**
 <br>
 **2)SELF SUPERVISED LEARNING**
