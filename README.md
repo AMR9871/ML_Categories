@@ -1,4 +1,4 @@
-# ML_BASICS
+# ML_BASICS #
 This is my first git repository.
 <br>
 **What is Machine Learning?**
@@ -6,7 +6,7 @@ This is my first git repository.
 Machine Learning in simple words is described as a subset of Artificial Intelligence, where data is fed into the machine with which it learns from the input data and predicts the output.
 <br>
 ![ML](https://i0.wp.com/tecknoworks.com/wp-content/uploads/2019/12/machine-learning-main-scaled.jpeg)
-## Types Of Machine Learning Include :
+# Types Of Machine Learning Include : #
 <br>
 
 **1)SUPERVISED LEARNING**
@@ -16,7 +16,7 @@ Machine Learning in simple words is described as a subset of Artificial Intellig
 **3)REINFORCEMENT LEARNING**
 <br>
 
-##There are some other types of ML which is not know to everyone:
+# There are some other types of ML which is not know to everyone: #
 <br>
 **1)SEMI SUPERVISED LEARNING**
 <br>
