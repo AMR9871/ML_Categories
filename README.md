@@ -13,8 +13,27 @@ Machine Learning in simple words is described as a subset of Artificial Intellig
 <br>
 **2)UNSUPERVISED LEARNING**
 <br>
-**3)SEMI SUPERVISED LEARNING**
+**3)REINFORCEMENT LEARNING**
 <br>
-**4)REINFORCEMENT LEARNING**
+
+##There are some other types of ML which is not know to everyone:
+<br>
+**1)SEMI SUPERVISED LEARNING**
+<br>
+**2)SELF SUPERVISED LEARNING**
+<br>
+**3)INVERSE REINFORCEMENT LEARNING**
+<br>
+**4)AUTOMATED MACHINE LEARNING (AutoML)**
+<br>
+**5)ADVERSARIAL MACHINE LEARNING**
+<br>
+**6)ENSEMBLE LEARNING**
+<br>
+**7)MACHINE UNLEARNING**
+<br>
+**8)META LEARNING**
+<br>
+**4)TINY MACHINE LEARNING (TinyML)**
 <br>
 Author - AMISH M RAO
