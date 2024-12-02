@@ -37,6 +37,6 @@ Machine Learning in simple words is described as a subset of Artificial Intellig
 <br>
 **9)FEDERATED LEARNING**
 <br>
-**4)TINY MACHINE LEARNING (TinyML)**
+**10)TINY MACHINE LEARNING (TinyML)**
 <br>
 Author - AMISH M RAO
